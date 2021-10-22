@@ -1,8 +1,8 @@
 let notes = [
     {
         id: new Date().getTime(),
-        title: 'Sample Note',
-        body: 'This is a description for our sample note',
+        title: 'Sample Note. Just to start',
+        body: 'This is a description for our sample note. You can delete it.',
         bgColor: 'pink'
     }
 ]
